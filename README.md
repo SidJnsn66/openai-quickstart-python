@@ -24,7 +24,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 5. Install the requirements:
 
    ```bash
-   $ pip install -r requirements.txt
+   $ pip install -r requirements.txt   Sid>>I had to install more current versions of Numpy, Flask, and PANDAS
    ```
 
 6. Make a copy of the example environment variables file:
@@ -38,7 +38,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 8. Run the app:
 
    ```bash
-   $ flask run
+   $ flask run    Sid>>This starts the server.
    ```
 
 You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
